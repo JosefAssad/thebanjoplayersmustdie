@@ -7,3 +7,9 @@ A few centuries into the future, not much has changed about the basic characteri
 This is the public git repository of The Banjo Players Must Die, a Creative Commons licensed novel.
 
 Version 2 introduces a relicensing which permits remixing and commercial exploitation.
+
+##  Building
+
+You really only need thebanjoplayersmustdie.tex and Front.pdf. Then:
+
+`pdflatex thebanjoplayersmustdie.tex`
