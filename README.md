@@ -6,7 +6,8 @@ A few centuries into the future, not much has changed about the basic characteri
 
 This is the public git repository of The Banjo Players Must Die, a Creative Commons licensed novel.
 
-Version 2 introduces a relicensing which permits remixing and commercial exploitation.
+Version 2 introduces a relicensing which permits remixing and commercial exploitation. This book is released under the Creative Commons
+Attribution-ShareAlike 2.5 Denmark License. The full license may be viewed [here](http://creativecommons.org/licenses/by-sa/2.5/dk/deed.en_US).
 
 ##  Building
 
