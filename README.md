@@ -9,6 +9,8 @@ This is the public git repository of The Banjo Players Must Die, a Creative Comm
 Version 2 introduces a relicensing which permits remixing and commercial exploitation. This book is released under the Creative Commons
 Attribution-ShareAlike 2.5 Denmark License. The full license may be viewed [here](http://creativecommons.org/licenses/by-sa/2.5/dk/deed.en_US).
 
+A compiled pdf of this book is available [here](http://www.josefassad.com/sites/josefassad.com/files/thebanjoplayersmustdie.pdf).
+
 ##  Building
 
 You really only need thebanjoplayersmustdie.tex and Front.pdf. Then:
